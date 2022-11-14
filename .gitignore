@@ -1,0 +1,17 @@
+# Node
+.DS_Store
+.env
+node_modules
+
+# Storybook
+storybook-static
+
+# kickstartDS
+*.dereffed.json
+*-tokens.json
+src/token
+!src/token/dictionary
+!src/token/branding-token.json
+static/*.css
+static/*.css.map
+dist
